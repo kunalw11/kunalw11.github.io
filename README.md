@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Professional Profile
-Data Engineer with over 5.6 years of experience building and optimizing enterprise ETL pipelines, data workflows, and high-performance production analytics systems(start_span)(end_span). Proven track record in SQL optimization, Sybase IQ, and PostgreSQL tuning, consistently driving 30–40% performance improvements across high-volume production environments(start_span)(end_span). Specialized in automating complex pipelines to eliminate manual overhead and ensuring 99.9% system uptime for mission-critical data systems(start_span)(end_span).
+Data Engineer with over 5.6 years of experience building and optimizing enterprise ETL pipelines, data workflows, and high-performance production analytics systems. Proven track record in SQL optimization, Sybase IQ, and PostgreSQL tuning, consistently driving 30–40% performance improvements across high-volume production environments. Specialized in automating complex pipelines to eliminate manual overhead and ensuring 99.9% system uptime for mission-critical data systems.
 
 ---
 
@@ -16,11 +16,11 @@ Data Engineer with over 5.6 years of experience building and optimizing enterpri
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages & Frameworks** | Python, SQL, Shell Scripting, Django, Django REST Framework(start_span)(end_span) |
-| **Databases & Analytics** | PostgreSQL, Sybase IQ, MySQL, NumPy, Pandas, MS Excel(start_span)(end_span) |
-| **DevOps & Cloud** | Git, Jenkins, Docker, AWS, CI/CD Pipelines, Ansible(start_span)(end_span) |
-| **BI & Methodologies** | Tableau, PowerBI, Agile/Scrum, JIRA(start_span)(end_span) |
-| **GenAI Tools** | Amazon Q, OpenAI, Microsoft CoPilot, Perplexity(start_span)(end_span) |
+| **Languages & Frameworks** | Python, SQL, Shell Scripting, Django, Django REST Framework|
+| **Databases & Analytics** | PostgreSQL, Sybase IQ, MySQL, NumPy, Pandas, MS Excel|
+| **DevOps & Cloud** | Git, Jenkins, Docker, AWS, CI/CD Pipelines, Ansible|
+| **BI & Methodologies** | Tableau, PowerBI, Agile/Scrum, JIRA|
+| **GenAI Tools** | Amazon Q, OpenAI, Microsoft CoPilot, Perplexity|
 
 ---
 
