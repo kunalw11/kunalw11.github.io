@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Professional Profile
-Data Engineer with over 5.5 years of experience building and optimizing enterprise ETL pipelines, data workflows, and high-performance production analytics systems[span_1](start_span)[span_1](end_span). Proven track record in SQL optimization, Sybase IQ, and PostgreSQL tuning, consistently driving 30–40% performance improvements across high-volume production environments[span_2](start_span)[span_2](end_span). Specialized in automating complex pipelines to eliminate manual overhead and ensuring 99.9% system uptime for mission-critical data systems[span_3](start_span)[span_3](end_span).
+Data Engineer with over 5.6 years of experience building and optimizing enterprise ETL pipelines, data workflows, and high-performance production analytics systems(start_span)(end_span). Proven track record in SQL optimization, Sybase IQ, and PostgreSQL tuning, consistently driving 30–40% performance improvements across high-volume production environments(start_span)(end_span). Specialized in automating complex pipelines to eliminate manual overhead and ensuring 99.9% system uptime for mission-critical data systems(start_span)(end_span).
 
 ---
 
@@ -16,19 +16,19 @@ Data Engineer with over 5.5 years of experience building and optimizing enterpri
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages & Frameworks** | Python, SQL, Shell Scripting, Django, Django REST Framework[span_4](start_span)[span_4](end_span) |
-| **Databases & Analytics** | PostgreSQL, Sybase IQ, MySQL, NumPy, Pandas, MS Excel[span_5](start_span)[span_5](end_span) |
-| **DevOps & Cloud** | Git, Jenkins, Docker, AWS, CI/CD Pipelines, Ansible[span_6](start_span)[span_6](end_span) |
-| **BI & Methodologies** | Tableau, PowerBI, Agile/Scrum, JIRA[span_7](start_span)[span_7](end_span) |
-| **GenAI Tools** | Amazon Q, OpenAI, Microsoft CoPilot, Perplexity[span_8](start_span)[span_8](end_span) |
+| **Languages & Frameworks** | Python, SQL, Shell Scripting, Django, Django REST Framework(start_span)(end_span) |
+| **Databases & Analytics** | PostgreSQL, Sybase IQ, MySQL, NumPy, Pandas, MS Excel(start_span)(end_span) |
+| **DevOps & Cloud** | Git, Jenkins, Docker, AWS, CI/CD Pipelines, Ansible(start_span)(end_span) |
+| **BI & Methodologies** | Tableau, PowerBI, Agile/Scrum, JIRA(start_span)(end_span) |
+| **GenAI Tools** | Amazon Q, OpenAI, Microsoft CoPilot, Perplexity(start_span)(end_span) |
 
 ---
 
 ## 💡 Featured Projects & Architecture Impact
 
 ### 🛠️ Enterprise ETL Pipeline Redesign & Automation
-*   **Objective:** Re-architect and automate legacy data workflows to handle scaling customer data and eliminate manual operational overhead[span_9](start_span)[span_9](end_span).
-*   **Impact & Scale:** Redesigned and optimized large-scale data pipelines serving **10–15 million customers**, boosting end-to-end data throughput by **35%** across multiple production environments[span_10](start_span)[span_10](end_span).
+*   **Objective:** Re-architect and automate legacy data workflows to handle scaling customer data and eliminate manual operational overhead(start_span)(end_span).
+*   **Impact & Scale:** Redesigned and optimized large-scale data pipelines serving **10–15 million customers**, boosting end-to-end data throughput by **35%** across multiple production environments(start_span)[span_10](end_span).
 *   **Automation:** Developed automated orchestration for 10+ critical ETL workflows using **Python and Shell scripting**, saving **120+ engineering hours annually**[span_11](start_span)[span_11](end_span).
 *   **Tech Stack:** Python, Shell Scripting, Linux, Sybase IQ[span_12](start_span)[span_12](end_span).
 
